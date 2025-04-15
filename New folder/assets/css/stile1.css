@@ -1,0 +1,94 @@
+.nav{
+    background-color:rgb(255, 255, 255);
+    
+    
+}
+.header{
+    background-color: rgb(255, 255, 255);
+    
+}
+.footer{
+    background-color: rgb(36, 36, 36);
+    font-family:arial,Papyrus,Times New Roman ;
+    
+}   
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration :none;
+    font-size: 20px;
+}
+h1{
+    padding-left: 580px;
+    color: rgb(0, 255, 8);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.g{
+    padding-left: 430px;
+}
+
+.img{
+    border-radius: 2500px;
+   width: 500px;
+}
+.l{
+    float: right;
+    width: 55px;
+}
+span{
+    font-size: 50px;
+    color: rgb(1, 255, 234);
+    padding-left: 600px;
+}
+span1{
+    font-size: 50px;
+    color: rgb(1, 255, 234);
+    padding-left: 1300px;
+}
+span2{
+    font-size: 50px;
+    color: rgb(1, 255, 234);
+    padding-left: 15px;
+
+}
+span3{
+    font-size: 50px;
+    color: rgb(39, 255, 1);
+    padding-left: 290px;
+
+}
+span4{
+    font-size: 50px;
+    color: rgb(228, 249, 0);
+    padding-left: 550px;
+
+}
+span5{
+    font-size: 50px;
+    color: rgb(228, 249, 0);
+    padding-left: 600px;
+
+}
+span6{
+    font-size: 50px;
+    color: rgb(228, 249, 0);
+    padding-left: 600px;
+
+}
+span7{
+    font-size: 50px;
+    color: rgb(228, 249, 0);
+    padding-left: 630px;
+
+}
+.footer{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+h3{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 350px;
+    color: rgb(0, 255, 42);
+ }
